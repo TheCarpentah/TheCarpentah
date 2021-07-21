@@ -10,3 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 Hello, Anyone have an idea on someone who doesn't know much about computers but wants to learn the ins and outs of everything to do with computing. 
 build my own apps. i want to use Aircrack-gn and learn to crack sound waves 
+email me at patmcloven@yahoo
